@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- White Album Clean Canvas -->
+  <rect width="512" height="512" rx="112" fill="#FFFFFF"/>
+  <rect width="508" height="508" x="2" y="2" rx="110" fill="none" stroke="#E4E4E7" stroke-width="4"/>
+
+  <!-- Subtle Network Signal Arcs -->
+  <path d="M 120 340 A 160 160 0 0 1 392 340" fill="none" stroke="#E4E4E7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 160 340 A 120 120 0 0 1 352 340" fill="none" stroke="#D4D4D8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 200 340 A 80 80 0 0 1 312 340" fill="none" stroke="#18181B" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Minimalist Pulse Wave -->
+  <path d="M 80 340 L 190 340 L 225 250 L 260 410 L 295 300 L 325 340 L 432 340" 
+        fill="none" 
+        stroke="#18181B" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+
+  <!-- Center Origin Core -->
+  <circle cx="256" cy="180" r="10" fill="#18181B"/>
+</svg>
